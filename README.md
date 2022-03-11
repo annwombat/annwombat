@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annwombat
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on an Alexa skill
 - 📫 How to reach me ...
 
 <!---
