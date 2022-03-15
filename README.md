@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annwombat
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning python coding
-- 💞️ I’m looking to collaborate on Scratch animation about a cat in the rain
+- 💞️ I’m looking to collaborate on Scratch animation about a cat jumping in the rain
 - 📫 How to reach me ...
 
 <!---
